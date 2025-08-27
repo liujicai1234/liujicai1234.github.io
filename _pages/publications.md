@@ -8,10 +8,11 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+# 2025
+- Jinhong Li, **Jicai Liu**, Jinhong You and Riquan Zhang. (2025). [SID: a novel class of nonparametric measures and tests of independence for censored outcomes](https://arxiv.org/pdf/2412.06311). *Bernoulli*. [[arXiv Preprint](https://arxiv.org/pdf/2412.06311)]
 
 # 2023
 - Shouxia Wang, Jinhong You and **Jicai Liu**. (2023). [Two sample test for high-dimensional functional data based on double projection integral](https://arxiv.org/abs/2505.19974). [[arXiv Preprint](https://arxiv.org/abs/2505.19974)]
-- Jinhong Li, **Jicai Liu**, Jinhong You and Riquan Zhang. (2025). [SID: a novel class of nonparametric measures and tests of independence for censored outcomes](https://arxiv.org/pdf/2412.06311). *Bernoulli*. [[arXiv Preprint](https://arxiv.org/pdf/2412.06311)]
 - **Jicai Liu**, Jinhong Li and Riquan Zhang. (2023). [K-CDFs: a nonparametric clustering algorithmvia cumulative distribution function](https://doi.org/10.1080/10618600.2022.2091575). *Journal of Computational and Graphical Statistics*, 32(1), 304-318.[[PDF](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2091575)]
 32: 1, 304-318. 
 
