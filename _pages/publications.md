@@ -8,6 +8,8 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+
 # 2025
 - Jinhong Li, **Jicai Liu**, Jinhong You and Riquan Zhang. (2025). [SID: a novel class of nonparametric measures and tests of independence for censored outcomes](https://arxiv.org/pdf/2412.06311). *Bernoulli*. [[arXiv Preprint](https://arxiv.org/pdf/2412.06311)]
 
