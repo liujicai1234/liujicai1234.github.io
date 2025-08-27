@@ -24,9 +24,11 @@ author_profile: true
 - **Jicai Liu**, Yu Zhang and Wenchao Xu. (2020). [Sufficient dimension reduction via inverse conditional mean/variance independence]. *Electronic Journal of Statistics*, revised.
 - **Jicai Liu**, Yuefeng Si, Yong Niu and Riquan Zhang. (2022). [Projection quantile correlation and its use in high-dimensional grouped variable screening](https://doi.org/10.1016/j.csda.2021.107369). *Computational Statistics and Data Analysis*, 167, 107369. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002036)]
 - **Jicai Liu**, Yuefeng Si, Wenchao Xu and Riquan Zhang. (2022). [A new nonparametric extension of anova via a projection mean variance measure](doi:https://doi.org/10.5705/ss.202020.0236). *Statistica Sinica*, 32, 367-390. [[PDF](https://www3.stat.sinica.edu.tw/statistica/j32n1/j32n118/j32n118.html)]
+
 # 2019
 - **Jicai Liu**, Peirong Xu and Heng Lian. (2019). [Estimation for single-index models via martingale difference divergence](https://doi.org/10.1016/j.csda.2019.03.008). *Computational Statistics and Data Analysis*, 137: 271–284. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167947319300751)]
 - Yu Zhang, **Jicai Liu**, Yuesong Wu and Xiangzhong Fang. (2019). [A martingale difference divergence based estimation on central mean subspace](https://dx.doi.org/10.4310/19-SII562). *Statistics and Its Interface*, 12(3), 489–500. [[PDF](https://link.intlpress.com/JDetail/1806634435980275715)]
+
 # Before 2019
 - Yong Niu, Riquan Zhang, **Jicai Liu** and Huapeng Li. (2018). [Nonparametric independence screening for ultrahigh-dimensional longitudinal data under additive Models](https://doi.org/10.1080/10485252.2018.1497797). *Journal of Nonparametric Statistics*, 30(4), 884–905. [[PDF](https://www.tandfonline.com/doi/full/10.1080/10485252.2018.1497797)]
 - Zean Li, Weihua Zhao, Riquan Zhang and **Jicai Liu**. (2017). [Robust estimation for partially linear single-index model](https://doi.org/10.1080/03610926.2015.1100739). *Communications in Statistics-Theory and Methods*, 46(11), 5342-5356. [[PDF](https://www.tandfonline.com/doi/full/10.1080/03610926.2015.1100739)]
